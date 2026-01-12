@@ -49,8 +49,8 @@ export TELEGRAM_BOT_TOKEN="your_token_from_botfather"
 
 **Option B: Copy and edit .env file**
 ```bash
-cp .env.example .env
-# Edit .env and add your token
+cp .env.example.example .env.example
+# Edit .env.example and add your token
 ```
 
 ## Usage
